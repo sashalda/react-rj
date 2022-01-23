@@ -1,0 +1,11 @@
+{
+    "productos": [
+        {
+        "id":0,
+        "name": "Zapatilla",
+        "price": 1000,
+        "description": "producto numero 1",
+        "stock": 2000,
+    }
+]
+}
